@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ScrollListSavior",
+  "uuid": "adbb28e3-5982-40c0-b0fd-b555cf77f746",
+  "version": "2.3.3",
+  "id": "185746b2-bb97-449d-86c2-746f4715b2c4",
+  "isNew": false
+}
